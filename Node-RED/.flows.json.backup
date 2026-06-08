@@ -1,0 +1,3757 @@
+[
+    {
+        "id": "b306b2a9ca758148",
+        "type": "tab",
+        "label": "FourPoint_Dashboard",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "9076bc36f1ec7ee1",
+        "type": "group",
+        "z": "b306b2a9ca758148",
+        "style": {
+            "color": "#a4a4a4",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "stroke": "#999999",
+            "stroke-opacity": "1"
+        },
+        "nodes": [
+            "6dc2924fd0411c48",
+            "22a98c8e76eea648",
+            "3a9a678619e9b7ba",
+            "c2cd90124a0ca672"
+        ],
+        "x": 54,
+        "y": 79,
+        "w": 632,
+        "h": 122
+    },
+    {
+        "id": "7708af146d269f69",
+        "type": "group",
+        "z": "b306b2a9ca758148",
+        "style": {
+            "color": "#a4a4a4",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "stroke": "#999999",
+            "stroke-opacity": "1"
+        },
+        "nodes": [
+            "964ed374fef0a265",
+            "b4a7a5d928786aeb",
+            "ba3339a68dc7369e",
+            "de131aef6f95edce",
+            "871759de23e13b24",
+            "fb32392d39bdcf03",
+            "53b7528a3fb118b1",
+            "2f278e2392f2e465",
+            "c3b867112f77357a",
+            "12ad3ba4d1685908",
+            "649f0fc1b68ec55a",
+            "64f5f62c40020100",
+            "0b850b86754f1541",
+            "a9b99a1a4d44516d",
+            "9109315a87791db0",
+            "563cfe2040a79c26",
+            "25d3d2f3f05378c8",
+            "ad7ec29018d37c14",
+            "0119478042d2649b",
+            "5e376a105c818357",
+            "b0f82e2dbf085bfe",
+            "e0726d6d7b0cad22",
+            "555273a84fd3d029",
+            "332e710897eddc95",
+            "eee86e445c2b7de4",
+            "7e47c90b8c63c1eb",
+            "c57997085f055fca",
+            "aee1ab6bce203068",
+            "c52b7923a050fa2c",
+            "242d501a3f65b68e",
+            "01e939815acfdf65",
+            "3d0a9c38efb19311",
+            "59b29317076fc52e",
+            "3318d13b3b02bd98"
+        ],
+        "x": 54,
+        "y": 299,
+        "w": 1512,
+        "h": 462
+    },
+    {
+        "id": "39725f20d08ec9ae",
+        "type": "group",
+        "z": "b306b2a9ca758148",
+        "style": {
+            "color": "#a4a4a4",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "stroke": "#999999",
+            "stroke-opacity": "1"
+        },
+        "nodes": [
+            "e6e57aa9c8b4f008",
+            "446cbde1680af504",
+            "393809883205ad4b",
+            "69b685e1b15afb6c",
+            "3f4f15b8f1a2d35d",
+            "139f7e770d445540",
+            "0d516f3f29759e10",
+            "fa02b3faab99f8d4"
+        ],
+        "x": 714,
+        "y": 19,
+        "w": 392,
+        "h": 262
+    },
+    {
+        "id": "48d2f444e75316da",
+        "type": "group",
+        "z": "b306b2a9ca758148",
+        "style": {
+            "color": "#a4a4a4",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "stroke": "#999999",
+            "stroke-opacity": "1"
+        },
+        "nodes": [
+            "39dc6367b7487681",
+            "e3da25261b245079",
+            "1fdf35b03b738446",
+            "1788072bee99b981",
+            "2269d41249a6520f",
+            "51da38d3300ceee0",
+            "060b0a99101bc15b",
+            "ab862bb0fc76dad8",
+            "d0b76dff6ead9a73",
+            "432a04f2e7904499",
+            "6f1b32031baae56b",
+            "bd862626b4e2b2a1",
+            "fcb9d7e622fa4947",
+            "513ac12204be3463",
+            "ca528371f5b21479",
+            "98d9b8cbba23164e",
+            "39d16f9d33a49fdb",
+            "b94bc6b8bad8546e",
+            "0b0544b39a0b7564",
+            "0f54a7c7b1d7938b",
+            "4abd23b140e2b73c",
+            "0d87bc191655d84b",
+            "2d9f72428cdc37a8",
+            "5ef26da0e4e3c4e5",
+            "c3a070653dd5f39f",
+            "c9218420082ef214",
+            "50c2bb4be904bc34",
+            "843c99f623bc8d1d",
+            "0b6a72a2ee32ba85",
+            "ced21323586b7310"
+        ],
+        "x": 54,
+        "y": 1139,
+        "w": 1182,
+        "h": 422
+    },
+    {
+        "id": "57212797686269db",
+        "type": "group",
+        "z": "b306b2a9ca758148",
+        "style": {
+            "color": "#a4a4a4",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "stroke": "#999999",
+            "stroke-opacity": "1"
+        },
+        "nodes": [
+            "a31cde4856f98b4a",
+            "a4a70354ef9c3a31",
+            "1568e5a95c3a0139",
+            "853de553a63cc01f",
+            "244c86755e663a8c",
+            "cf2bb5a841c158fd",
+            "c8317a5089d4e8b8",
+            "edc96016553c87e0",
+            "489230649adccd51",
+            "3e27db80bcf24a29",
+            "952dc9935592d6ce",
+            "488f18123d7d6bc5",
+            "50dc61671ee1641e",
+            "c3eb94595174c91d",
+            "1499b7771e91e5a7",
+            "84768f1b33fd90df",
+            "50fd6c72efbcc76a",
+            "28782a840e8ee7ad",
+            "4367cb220ca2d957",
+            "290d06b34298f1c4",
+            "78de76932c6617be",
+            "90050eca90b69de3",
+            "3a3f337df68c30f4",
+            "12be046e7a58dd3b",
+            "c80c94ead78ce750",
+            "0d8b93e8637d026d",
+            "18257f9390296ace",
+            "1ecd5a8b477cf06b",
+            "cd4c9e671fbb39f5",
+            "41440cd1e976df9b",
+            "8698c84e1242ddf3"
+        ],
+        "x": 64,
+        "y": 799,
+        "w": 1582,
+        "h": 322
+    },
+    {
+        "id": "e120fffe66c64f5f",
+        "type": "group",
+        "z": "b306b2a9ca758148",
+        "style": {
+            "color": "#a4a4a4",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "stroke": "#999999",
+            "stroke-opacity": "1"
+        },
+        "nodes": [
+            "947c8603d1c71468",
+            "6a01ffb8a4592983",
+            "1bf2f7b21f7bd062",
+            "f546817b5cbabddc",
+            "3f0819d03e8d7923",
+            "1728b2c0b4236731",
+            "5f3f795c7a338692",
+            "bda310ae660ce8ee",
+            "f598476f984cc9fe"
+        ],
+        "x": 104,
+        "y": 1579,
+        "w": 842,
+        "h": 202
+    },
+    {
+        "id": "35286cf5a525a93b",
+        "type": "ui_tab",
+        "name": "FourPoint",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "d64325e3cb42690b",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-dashboard": "3.6.6",
+            "node-red-contrib-toggle": "0.1.1",
+            "node-red-contrib-ui-media": "2.0.0",
+            "node-red-contrib-aedes": "0.6.0"
+        }
+    },
+    {
+        "id": "9cb1920c660ae580",
+        "type": "ui_group",
+        "name": "Adatok",
+        "tab": "35286cf5a525a93b",
+        "order": 1,
+        "disp": true,
+        "width": 25,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "1245d920678a7c21",
+        "type": "ui_group",
+        "name": "Vezérlés",
+        "tab": "35286cf5a525a93b",
+        "order": 2,
+        "disp": true,
+        "width": 12,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "ab727472c4c99548",
+        "type": "ui_group",
+        "name": "ID",
+        "tab": "35286cf5a525a93b",
+        "order": 4,
+        "disp": true,
+        "width": 12,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "f448da3252344572",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-dark",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#097479",
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#0eb8c0",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#555555",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#eeeeee",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "458249f8ed2df35f",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "mqtt",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "e69778706ad1599a",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "9cb1920c660ae580",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "75bcde825981bcd4",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "9cb1920c660ae580",
+        "order": 3,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "8f09ca1321e48d3f",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "9cb1920c660ae580",
+        "order": 5,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "7ac5fe23529cc504",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "9cb1920c660ae580",
+        "order": 7,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "1a625ae6ef71e620",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "9cb1920c660ae580",
+        "order": 9,
+        "width": 2,
+        "height": 1
+    },
+    {
+        "id": "172aa488bd8b9543",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "9cb1920c660ae580",
+        "order": 10,
+        "width": 25,
+        "height": 1
+    },
+    {
+        "id": "adcc443186ee2164",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "9cb1920c660ae580",
+        "order": 12,
+        "width": 9,
+        "height": 1
+    },
+    {
+        "id": "425b249638c97a6b",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "9cb1920c660ae580",
+        "order": 14,
+        "width": 9,
+        "height": 1
+    },
+    {
+        "id": "b9468070f273256f",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "9cb1920c660ae580",
+        "order": 15,
+        "width": 9,
+        "height": 1
+    },
+    {
+        "id": "26220c21a89db576",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "9cb1920c660ae580",
+        "order": 16,
+        "width": 9,
+        "height": 1
+    },
+    {
+        "id": "532a62a2f7dfa2a8",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "9cb1920c660ae580",
+        "order": 17,
+        "width": 25,
+        "height": 1
+    },
+    {
+        "id": "856116032a0eb090",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 1,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "6033849812f73e5f",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 3,
+        "width": 5,
+        "height": 1
+    },
+    {
+        "id": "843b9ea4bedb3d3b",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 4,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "93b4484f9354fedb",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 6,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "0942ca569d5a3c38",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 7,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "36fb6bb96b8549b8",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 8,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "f9e13e4fcb60e03f",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 10,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "d3f88a7ec69bd4a5",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 11,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "e216b5b93c1e2b9b",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 13,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "c87fd15495feb035",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 14,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "c20c1f91c44cd8dd",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 15,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "a02fa3e9a746ce3a",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 17,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "889708cabcc0248c",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 18,
+        "width": 12,
+        "height": 1
+    },
+    {
+        "id": "403d479fa41095ae",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 19,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "6f9327c68c372672",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "1245d920678a7c21",
+        "order": 21,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "b86565387d1893d8",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "ab727472c4c99548",
+        "order": 3,
+        "width": 7,
+        "height": 1
+    },
+    {
+        "id": "a60c53a116e88ed5",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "ab727472c4c99548",
+        "order": 4,
+        "width": 7,
+        "height": 1
+    },
+    {
+        "id": "f16df8544f5975ba",
+        "type": "ui_spacer",
+        "z": "b306b2a9ca758148",
+        "name": "spacer",
+        "group": "ab727472c4c99548",
+        "order": 6,
+        "width": 7,
+        "height": 1
+    },
+    {
+        "id": "964ed374fef0a265",
+        "type": "ui_chart",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "",
+        "group": "9cb1920c660ae580",
+        "order": 11,
+        "width": 16,
+        "height": 8,
+        "label": "Darab / időpont",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "Várakozás adatokra",
+        "dot": true,
+        "ymin": "0",
+        "ymax": "10",
+        "removeOlder": "1",
+        "removeOlderPoints": "40",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 920,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d70c25cee0d61603",
+        "type": "mqtt in",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "WIP",
+        "topic": "ionoPi/Di4",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 4540,
+        "wires": [
+            [
+                "4e3042995e4d9b9a"
+            ]
+        ]
+    },
+    {
+        "id": "4e3042995e4d9b9a",
+        "type": "debug",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "WIP debug",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 650,
+        "y": 4540,
+        "wires": []
+    },
+    {
+        "id": "68037138a490a97e",
+        "type": "mqtt in",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "RND",
+        "topic": "ionoPi/Relay3",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 4600,
+        "wires": [
+            [
+                "e8ab4a95e407e8cb"
+            ]
+        ]
+    },
+    {
+        "id": "e8ab4a95e407e8cb",
+        "type": "debug",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "RND_Debug",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 650,
+        "y": 4600,
+        "wires": []
+    },
+    {
+        "id": "b4a7a5d928786aeb",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "only_one",
+        "func": "if(msg.payload)\n{return msg;}\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 540,
+        "y": 580,
+        "wires": [
+            [
+                "de131aef6f95edce",
+                "fb32392d39bdcf03",
+                "53b7528a3fb118b1"
+            ]
+        ]
+    },
+    {
+        "id": "ba3339a68dc7369e",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "insert data to chart",
+        "func": "var name = \"Megfelelő\"; // Ez jelenik meg a tooltipben\nvar timestamp = new Date(Date.now());\nvar cleantimestamp = timestamp.toISOString().slice(11, -5).replace(\"T\", \" \"); // Óra : perc : másodperc formátum\n\nmsg = {\n    topic: \"Megfelelő\",\n    label: cleantimestamp,\n    series: name,\n    payload: msg.payload,\n    color_msg: '#0000FF' // Kék szín\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 990,
+        "y": 460,
+        "wires": [
+            [
+                "0119478042d2649b"
+            ]
+        ]
+    },
+    {
+        "id": "a31cde4856f98b4a",
+        "type": "ui_button",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "",
+        "group": "1245d920678a7c21",
+        "order": 16,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "Alaphelyzetbe állítás",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "rgb(15,126,228)",
+        "className": "",
+        "icon": "",
+        "payload": "[]",
+        "payloadType": "json",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 720,
+        "y": 940,
+        "wires": [
+            [
+                "488f18123d7d6bc5",
+                "c80c94ead78ce750"
+            ]
+        ]
+    },
+    {
+        "id": "de131aef6f95edce",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "Időkülönbség kiszámítása",
+        "func": "// A function node beállítása az idő különbség kiszámítására\nlet currentTimestamp = Date.now() / 1000; // Jelenlegi idő másodpercben\n//let previousTimestamp = context.get('previousTimestamp') || 0; // Előző időpont\nlet previousTimestamp = flow.get('previousTimestamp') || 0; // Előző időpont\n\nlet timeDifference = 0;\nif (previousTimestamp !== 0) {\n    timeDifference = currentTimestamp - previousTimestamp-2.4;\n}\n\n// Az aktuális időpont elmentése a következő üzenethez\nflow.set('previousTimestamp', currentTimestamp);\n\n// Az üzenetbe beírjuk az eltelt időt másodpercben\nmsg.payload = timeDifference;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 770,
+        "y": 460,
+        "wires": [
+            [
+                "ba3339a68dc7369e",
+                "649f0fc1b68ec55a"
+            ]
+        ]
+    },
+    {
+        "id": "eeceb649a6d02305",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "Gauss Eloszlás",
+        "func": "function gaussianRandom(mean, stdev) {\n    let u1 = 0, u2 = 0;\n    // Convert [0,1) to (0,1)\n    while (u1 === 0) u1 = Math.random();\n    while (u2 === 0) u2 = Math.random();\n    let z0 = Math.sqrt(-2.0 * Math.log(u1)) * Math.cos(2.0 * Math.PI * u2);\n    // Adjust for mean and standard deviation\n    return z0 * stdev + mean;\n}\n\nlet mean = 3.5;  // középérték\nlet stdev = 1.5;  // szórás\n\nfunction sendRandom() {\n    // Generáljuk a Gauss eloszlás szerinti időközt\n    let interval = gaussianRandom(mean, stdev) * 1000;  // milliszekundumra konvertálás\n\n    // Korlátozzuk az időközt 0 és 7000 ms közé\n    interval = Math.max(0, Math.min(7000, interval));\n\n    // Küldjünk ki egy '1' üzenetet és tároljuk az időbélyeget\n    let timestamp = Date.now();\n    node.send({ payload: 1, timestamp: timestamp });\n\n    // Várjunk az interval ideig, majd küldjünk '0' üzenetet és indítsuk újra a folyamatot\n    setTimeout(() => {\n        node.send({ payload: 0 });\n        setTimeout(sendRandom, 1000); // 1 másodperc múlva újraindítjuk a folyamatot\n    }, interval);\n}\n\n// Elindítjuk az első hívást\nsendRandom();\n\n// Mivel az üzenetküldést a setTimeout kezeli, itt nem küldünk vissza üzenetet\nreturn null;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 4280,
+        "wires": [
+            [
+                "5f89242b5b51814a"
+            ]
+        ]
+    },
+    {
+        "id": "e156ed1ab78bb8ff",
+        "type": "inject",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "Start",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 4280,
+        "wires": [
+            [
+                "eeceb649a6d02305"
+            ]
+        ]
+    },
+    {
+        "id": "871759de23e13b24",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "Lock_Control",
+        "func": "if (flow.get(\"lock_state\") != 1) return null;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 580,
+        "wires": [
+            [
+                "b4a7a5d928786aeb"
+            ]
+        ]
+    },
+    {
+        "id": "622d9711eb0cbeef",
+        "type": "mqtt out",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "Selejt_From_Pi",
+        "topic": "ionoPi/Relay2",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "",
+        "x": 620,
+        "y": 4100,
+        "wires": []
+    },
+    {
+        "id": "8083888a513a2f48",
+        "type": "inject",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "selejtON",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "0",
+        "payloadType": "num",
+        "x": 180,
+        "y": 4100,
+        "wires": [
+            [
+                "1faa25af659743ca"
+            ]
+        ]
+    },
+    {
+        "id": "8538b7c304d16d38",
+        "type": "inject",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "selejtOFF",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "1",
+        "payloadType": "num",
+        "x": 180,
+        "y": 4160,
+        "wires": [
+            [
+                "1faa25af659743ca"
+            ]
+        ]
+    },
+    {
+        "id": "a34303abcfe21a93",
+        "type": "mqtt in",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "Selejt_to_Pi",
+        "topic": "ionoPi/Di5",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 190,
+        "y": 4240,
+        "wires": [
+            [
+                "1faa25af659743ca"
+            ]
+        ]
+    },
+    {
+        "id": "1faa25af659743ca",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "selejt_from_pi_simu",
+        "func": "flow.set(\"selejt_from_pi_state\", msg.payload);\nmsg.payload = flow.get(\"selejt_from_pi_state\")\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 4160,
+        "wires": [
+            [
+                "622d9711eb0cbeef",
+                "d085d3479ffb1de2",
+                "491ea226c542f65b"
+            ]
+        ]
+    },
+    {
+        "id": "d085d3479ffb1de2",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "selejt_to_pi_simu",
+        "func": "if(msg.payload == 1)\n{\n    flow.set(\"selejt_state\", 0);\n    msg.payload = flow.get(\"selejt_state\");\n    return msg;\n}\nelse if(msg.payload == 0)\n{\n    flow.set(\"selejt_state\", 1);\n    msg.payload = flow.get(\"selejt_state\");\n    return msg;\n}\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 4160,
+        "wires": [
+            [
+                "2bb9613c77daf1a3"
+            ]
+        ]
+    },
+    {
+        "id": "491ea226c542f65b",
+        "type": "debug",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "selejt_from_pi_state",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 620,
+        "y": 4220,
+        "wires": []
+    },
+    {
+        "id": "2bb9613c77daf1a3",
+        "type": "debug",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "selejt_state",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 850,
+        "y": 4160,
+        "wires": []
+    },
+    {
+        "id": "e6e57aa9c8b4f008",
+        "type": "mqtt in",
+        "z": "b306b2a9ca758148",
+        "g": "39725f20d08ec9ae",
+        "name": "Lock",
+        "topic": "ionoPi/Relay1",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "458249f8ed2df35f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 790,
+        "y": 180,
+        "wires": [
+            [
+                "446cbde1680af504"
+            ]
+        ]
+    },
+    {
+        "id": "446cbde1680af504",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "39725f20d08ec9ae",
+        "name": "Lock_simu",
+        "func": "flow.set(\"lock_state\",msg.payload);\nmsg.payload = flow.get(\"lock_state\");\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 990,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a4a70354ef9c3a31",
+        "type": "toggle",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "",
+        "onOffTopic": "",
+        "onValue": "1",
+        "onType": "num",
+        "offValue": "0",
+        "offType": "num",
+        "toggleTopic": "",
+        "toggleValue": "",
+        "toggleType": "any",
+        "passOnOff": "ifChanged",
+        "x": 790,
+        "y": 1020,
+        "wires": [
+            [
+                "853de553a63cc01f"
+            ]
+        ]
+    },
+    {
+        "id": "1568e5a95c3a0139",
+        "type": "ui_button",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "gyartas on off",
+        "group": "1245d920678a7c21",
+        "order": 12,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "{{payload.Label}}",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "{{payload.color}}",
+        "className": "",
+        "icon": "",
+        "payload": "-",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 560,
+        "y": 1020,
+        "wires": [
+            [
+                "a4a70354ef9c3a31"
+            ]
+        ]
+    },
+    {
+        "id": "853de553a63cc01f",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "function 48",
+        "func": "if(flow.get(\"machine_enable\")==1 && flow.get(\"target_quantity\") > 0)\n{\n    return msg;\n}\nmsg.payload = 0;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1090,
+        "y": 1020,
+        "wires": [
+            [
+                "244c86755e663a8c",
+                "cf2bb5a841c158fd",
+                "41440cd1e976df9b"
+            ]
+        ]
+    },
+    {
+        "id": "244c86755e663a8c",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "color and label",
+        "func": "if(msg.payload == 1 && flow.get(\"target_quantity\") > 0)\n{\n    msg.payload = {\"color\": null,\"Label\": null};\n    msg.payload.color = \"rgb(143,0,0)\";\n    msg.payload.Label = \"Gyártás leállítása\";\n}\nelse\n{\n    flow.set(\"target_reached\", 0);\n    msg.payload = {\"color\": null,\"Label\": null};\n    msg.payload.color = \"rgb(5,152,98)\";\n    msg.payload.Label = \"Gyártás indítása\";\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 1020,
+        "wires": [
+            [
+                "1568e5a95c3a0139"
+            ]
+        ]
+    },
+    {
+        "id": "cf2bb5a841c158fd",
+        "type": "mqtt out",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "Lock",
+        "topic": "ionoPi/Relay1",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "458249f8ed2df35f",
+        "x": 1350,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "5f89242b5b51814a",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "selejt_contorl",
+        "func": "if(flow.get(\"selejt_state\")==1)\n{return;}\nelse\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 4280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "139f7e770d445540",
+        "type": "mqtt in",
+        "z": "b306b2a9ca758148",
+        "g": "39725f20d08ec9ae",
+        "name": "Selejt_from_pi",
+        "topic": "ionoPi/Relay2",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "458249f8ed2df35f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 810,
+        "y": 240,
+        "wires": [
+            [
+                "0d516f3f29759e10"
+            ]
+        ]
+    },
+    {
+        "id": "0d516f3f29759e10",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "39725f20d08ec9ae",
+        "name": "selejt_from_pi",
+        "func": "flow.set(\"selejt_from_pi_state\", msg.payload);\nmsg.payload = flow.get(\"selejt_from_pi_state\");\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1000,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c8317a5089d4e8b8",
+        "type": "mqtt in",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "selejt_to_pi",
+        "topic": "ionoPi/Di5",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "458249f8ed2df35f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 230,
+        "y": 900,
+        "wires": [
+            [
+                "edc96016553c87e0"
+            ]
+        ]
+    },
+    {
+        "id": "edc96016553c87e0",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "selejt_to_pi",
+        "func": "// Selejt állapot mentése\nlet newState = msg.payload;\nlet prevState = flow.get(\"selejt_state\") || 0;\n\nflow.set(\"selejt_state\", newState);\n\n// Csak RISING EDGE-nél számolunk (0 → 1 átmenet)\nif (newState === 1 && prevState === 0) {\n    // Selejt számláló növelése\n    let scrap = flow.get(\"scrap_counter\") || 0;\n    scrap++;\n    flow.set(\"scrap_counter\", scrap);\n    \n    let good = flow.get(\"good_counter\");\n    if(good > 0) good--;\n    flow.set(\"good_counter\", good)\n}\n\n// NE állítsuk le itt a gépet - a cél ellenőrzés a product counter-nél történjen\nmsg.payload = newState;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 900,
+        "wires": [
+            [
+                "c3eb94595174c91d",
+                "50fd6c72efbcc76a",
+                "12be046e7a58dd3b"
+            ]
+        ]
+    },
+    {
+        "id": "489230649adccd51",
+        "type": "mqtt out",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "Selejt_from_pi",
+        "topic": "ionoPi/Relay2",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "458249f8ed2df35f",
+        "x": 1520,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "3e27db80bcf24a29",
+        "type": "mqtt out",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "Lock",
+        "topic": "ionoPi/Relay1",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "458249f8ed2df35f",
+        "x": 1210,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "952dc9935592d6ce",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "not",
+        "func": "if(msg.payload == 0)\n{\n    msg.payload = 1;\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1370,
+        "y": 960,
+        "wires": [
+            [
+                "489230649adccd51"
+            ]
+        ]
+    },
+    {
+        "id": "488f18123d7d6bc5",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "reseter",
+        "func": "if(flow.get(\"lock_state\") == 0){\n    flow.set(\"lock_state\",0);\n    flow.set(\"selejt_state\", 0);\n    flow.set(\"selejt_from_pi_state\", 1);\n    flow.set('previousTimestamp', 0);\n    flow.set(\"product_counter\", 0);\n    flow.set(\"good_counter\", 0);\n    flow.set(\"scrap_counter\", 0);\n    flow.set(\"all_wait\", 1);\n    flow.set(\"target_quantity\", 0);\n\n    msg.payload = [];\n    msg.topic = \"reset\";\n    return msg;\n}\n\nreturn null;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 920,
+        "y": 940,
+        "wires": [
+            [
+                "1ecd5a8b477cf06b"
+            ]
+        ]
+    },
+    {
+        "id": "50dc61671ee1641e",
+        "type": "ui_toast",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "HIBA",
+        "name": "Selejt_warn",
+        "x": 770,
+        "y": 900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c3eb94595174c91d",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "warn function",
+        "func": "if(msg.payload == 1)\n{   \n    var warning = \"Selejtet termelt\";\n    msg.payload = warning;\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4d764859f8e683f9",
+        "type": "inject",
+        "z": "b306b2a9ca758148",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 180,
+        "y": 4340,
+        "wires": [
+            [
+                "2bdda764382f5ed4"
+            ]
+        ]
+    },
+    {
+        "id": "2bdda764382f5ed4",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "name": "function 51",
+        "func": "flow.set('trash_data',0);\nflow.set('fine_data',0);\n\nmsg.payload = [flow.get('fine_data'),flow.get('trash_data')];\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 4340,
+        "wires": [
+            [
+                "9f20cdd867689538"
+            ]
+        ]
+    },
+    {
+        "id": "9f20cdd867689538",
+        "type": "debug",
+        "z": "b306b2a9ca758148",
+        "name": "pieChartData",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 550,
+        "y": 4340,
+        "wires": []
+    },
+    {
+        "id": "39dc6367b7487681",
+        "type": "ui_text",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "group": "ab727472c4c99548",
+        "order": 1,
+        "width": 7,
+        "height": 1,
+        "name": "",
+        "label": "Operátor: ",
+        "format": "{{msg.payload.card_owner}}",
+        "layout": "row-center",
+        "className": "",
+        "style": false,
+        "font": "Arial,Arial,Helvetica,sans-serif",
+        "fontSize": 16,
+        "color": "#ffffff",
+        "x": 980,
+        "y": 1400,
+        "wires": []
+    },
+    {
+        "id": "e3da25261b245079",
+        "type": "ui_text",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "group": "ab727472c4c99548",
+        "order": 5,
+        "width": 7,
+        "height": 1,
+        "name": "",
+        "label": "Érkezés:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "style": false,
+        "font": "Arial,Arial,Helvetica,sans-serif",
+        "fontSize": 16,
+        "color": "#3076a5",
+        "x": 980,
+        "y": 1440,
+        "wires": []
+    },
+    {
+        "id": "1fdf35b03b738446",
+        "type": "ui_text",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "group": "ab727472c4c99548",
+        "order": 7,
+        "width": 7,
+        "height": 1,
+        "name": "",
+        "label": "Jogosultság:",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "style": false,
+        "font": "Arial,Arial,Helvetica,sans-serif",
+        "fontSize": 16,
+        "color": "#3076a5",
+        "x": 990,
+        "y": 1480,
+        "wires": []
+    },
+    {
+        "id": "6dc2924fd0411c48",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "9076bc36f1ec7ee1",
+        "name": "setup",
+        "func": "flow.set(\"machine_enable\",0); //\nflow.set(\"lock_state\",0); //A lock állapotát állítja\nflow.set(\"login_state\",0);//Be- vagy Kijelentkezett állapotban vagyunk (Ha kijelentkezett állapotban vagyunk, akkor autómatikusan lezár a rendszer)\nflow.set(\"product_counter\",0); //Az aktuális tremelésben hány darab termék készült el\nflow.set(\"all_wait\",0);\nflow.set(\"cardOK\", 0); //Megmondja, hogy a felhasználó,a aki bejelentkezett, az használhatja-e a berendezést (alapértelmezetten nem)\nflow.set(\"somebodyIn\",0); //Valaki be van jelentkezve\nflow.set(\"lastWasBlank\",1); \nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "59cd438dcd6e68ce",
+        "type": "inject",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 190,
+        "y": 3900,
+        "wires": [
+            [
+                "cf2a743306f25cc5"
+            ]
+        ]
+    },
+    {
+        "id": "cf2a743306f25cc5",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "function 56",
+        "func": "msg.payload=flow.get(\"login_state\");\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 3900,
+        "wires": [
+            [
+                "0405e8f3d14db4c7"
+            ]
+        ]
+    },
+    {
+        "id": "0405e8f3d14db4c7",
+        "type": "debug",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "login state",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 530,
+        "y": 3900,
+        "wires": []
+    },
+    {
+        "id": "ec0a31e22b4090a4",
+        "type": "inject",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 190,
+        "y": 3960,
+        "wires": [
+            [
+                "679b273feec9ba9d"
+            ]
+        ]
+    },
+    {
+        "id": "679b273feec9ba9d",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "function 57",
+        "func": "msg.payload=flow.get(\"logout_state\");\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 3960,
+        "wires": [
+            [
+                "9c46a13037d34c0c"
+            ]
+        ]
+    },
+    {
+        "id": "9c46a13037d34c0c",
+        "type": "debug",
+        "z": "b306b2a9ca758148",
+        "d": true,
+        "name": "logout state",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 530,
+        "y": 3960,
+        "wires": []
+    },
+    {
+        "id": "1788072bee99b981",
+        "type": "toggle",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "",
+        "onOffTopic": "",
+        "onValue": "1",
+        "onType": "num",
+        "offValue": "0",
+        "offType": "num",
+        "toggleTopic": "",
+        "toggleValue": "",
+        "toggleType": "any",
+        "passOnOff": "ifChanged",
+        "x": 630,
+        "y": 1280,
+        "wires": [
+            [
+                "51da38d3300ceee0",
+                "432a04f2e7904499",
+                "4abd23b140e2b73c",
+                "0b6a72a2ee32ba85"
+            ]
+        ]
+    },
+    {
+        "id": "2269d41249a6520f",
+        "type": "ui_button",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "Log in/out",
+        "group": "1245d920678a7c21",
+        "order": 5,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "{{payload.Label}}",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "{{payload.color}}",
+        "className": "",
+        "icon": "",
+        "payload": "-",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 480,
+        "y": 1280,
+        "wires": [
+            [
+                "1788072bee99b981"
+            ]
+        ]
+    },
+    {
+        "id": "51da38d3300ceee0",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "Login_controll_by_Button",
+        "func": "if(msg.payload == 1)\n{\n    flow.set('login_state',1);\n    msg.topic = \"on\";\n    msg.payload = true;\n    return msg;\n}\nelse if(msg.payload == 0)\n{\n    flow.set('login_state',0);\n    flow.set(\"machine_enable\",0);\n    flow.set(\"somebodyIn\",0);\n    return msg;\n}\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 1340,
+        "wires": [
+            [
+                "060b0a99101bc15b",
+                "513ac12204be3463"
+            ]
+        ]
+    },
+    {
+        "id": "060b0a99101bc15b",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "color and label",
+        "func": "if(msg.payload == 1)\n{\n    msg.payload = {\"color\": null,\"Label\": null};\n    msg.payload.color = \"rgb(195,215,19)\";\n    msg.payload.Label = \"Kijelentkezés\";\n}\nelse\n{\n    msg.payload = {\"color\": null,\"Label\": null};\n    msg.payload.color = \"rgb(9,116,121)\";\n    msg.payload.Label = \"Bejelentkezés\";\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 320,
+        "y": 1280,
+        "wires": [
+            [
+                "2269d41249a6520f"
+            ]
+        ]
+    },
+    {
+        "id": "ab862bb0fc76dad8",
+        "type": "mqtt in",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "",
+        "topic": "cardID",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "458249f8ed2df35f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 130,
+        "y": 1520,
+        "wires": [
+            [
+                "0d87bc191655d84b"
+            ]
+        ]
+    },
+    {
+        "id": "d0b76dff6ead9a73",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "autentikáció",
+        "func": "if(flow.get('login_state')==1 && flow.get(\"somebodyIn\")==0)\n{\n    if(flow.get(\"cardOK\") == 1)\n    {\n        flow.set(\"machine_enable\",1);\n    }\n    else if(flow.get(\"cardOK\")  == 0 || msg.payload.cardOK == 0)\n    {\n        flow.set(\"machine_enable\",0);\n    }\n    flow.set(\"somebodyIn\",1);\n    return msg;\n}\nelse if(flow.get('login_state')==0)\n{\n    flow.set(\"machine_enable\",0);\n    msg.payload={};\n    return msg; \n}\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 1400,
+        "wires": [
+            [
+                "39dc6367b7487681",
+                "fcb9d7e622fa4947"
+            ]
+        ]
+    },
+    {
+        "id": "432a04f2e7904499",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "login txt",
+        "func": "if(msg.payload == 1)\n{\n    msg.payload=\"Olvassa le a belépőkártyát!\"\n    return msg;\n}\nelse if(msg.payload == 0)\n{\n    msg.payload=\"Sikeresen kilépett.\"\n    return msg;\n}\nreturn;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 800,
+        "y": 1320,
+        "wires": [
+            [
+                "6f1b32031baae56b"
+            ]
+        ]
+    },
+    {
+        "id": "6f1b32031baae56b",
+        "type": "ui_toast",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "position": "bottom right",
+        "displayTime": "5",
+        "highlight": "Green",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "RFID",
+        "name": "",
+        "x": 1000,
+        "y": 1320,
+        "wires": []
+    },
+    {
+        "id": "bd862626b4e2b2a1",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "jogosultság text",
+        "func": "if (flow.get(\"cardOK\") == 1)\n{\n    msg.payload=\"Jogosult\";\n    return msg;\n}\nelse if (flow.get(\"cardOK\") == 0)\n{\n    msg.payload = \"Nem jogosult\";\n    return msg;\n}\nelse\n{\n    msg.payload =\" \";\n    return msg;\n}\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 1480,
+        "wires": [
+            [
+                "1fdf35b03b738446",
+                "ced21323586b7310"
+            ]
+        ]
+    },
+    {
+        "id": "fcb9d7e622fa4947",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "timestamp format",
+        "func": "// Eredeti string\nlet inputString = msg.payload.dateTime;\n\n// Eredmény string inicializálása üres stringként\nlet resultString = \"\";\n\n// Végigmegyünk a stringen karakterenként\nfor (let i = 0; i < inputString.length; i++) {\n    // Ellenőrizzük, hogy az aktuális karakter \"T\"-e\n    if (inputString[i] === 'T') {\n        // Ha \"T\", akkor hozzáadunk egy szóközt az eredmény stringhez\n        resultString += ' ';\n    } else {\n        // Ha nem \"T\", akkor hozzáadjuk az eredeti karaktert az eredmény stringhez\n        resultString += inputString[i];\n    }\n}\nmsg.payload = resultString;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 1440,
+        "wires": [
+            [
+                "e3da25261b245079"
+            ]
+        ]
+    },
+    {
+        "id": "513ac12204be3463",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "-",
+        "func": "if(msg.payload == 1 || msg.payload == 0)\n{msg.payload = \" \" ;\nreturn msg;}\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 790,
+        "y": 1400,
+        "wires": [
+            [
+                "39dc6367b7487681",
+                "e3da25261b245079",
+                "1fdf35b03b738446"
+            ]
+        ]
+    },
+    {
+        "id": "fb32392d39bdcf03",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "product counter",
+        "func": "let target = flow.get(\"target_quantity\") || 0;\nlet isScrap = flow.get(\"selejt_state\") || 0;\n\nif (msg.payload === 1 && target > 0) {\n    let current = flow.get(\"product_counter\") || 0;\n    current++;\n    flow.set(\"product_counter\", current);\n\n    if (isScrap == 0){\n        let good = flow.get(\"good_counter\") || 0;\n        good++;\n        flow.set(\"good_counter\", good);\n    }\n\n    flow.set(\"selejt_state\", 0);\n\n    // Ha elérte a célmennyiséget → leállítás\n    if (target > 0 && current >= target) {\n        flow.set(\"machine_enable\", 0);\n        flow.set(\"lock_state\", 0);\n        msg.payload = 0;\n        return msg;\n    }\n\n    // Normál működés – csak a darabszám küldése tovább\n    msg.payload = current;\n    return msg;\n}\n\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 580,
+        "wires": [
+            [
+                "ad7ec29018d37c14",
+                "332e710897eddc95",
+                "242d501a3f65b68e",
+                "59b29317076fc52e"
+            ]
+        ]
+    },
+    {
+        "id": "53b7528a3fb118b1",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "all_wait_counter",
+        "func": "\n/*\nvar temp = context.get(\"count\") || 0;\ntemp++ ;\nmsg.payload = temp;\ncontext.set(\"count\",temp);\nreturn msg;\n*/\nvar temp;\n\nif (Array.isArray(msg.payload) && msg.payload.length === 0) {\ncontext.set(\"count\",0);\ntemp = 0;\n}\nelse\n{\ntemp = context.get(\"count\") || 0;\ntemp++ ;\nmsg.payload = temp;\ncontext.set(\"count\",temp);\nreturn msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 700,
+        "y": 660,
+        "wires": [
+            [
+                "964ed374fef0a265"
+            ]
+        ]
+    },
+    {
+        "id": "1499b7771e91e5a7",
+        "type": "ui_button",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "",
+        "group": "1245d920678a7c21",
+        "order": 20,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "Selejt Generálás",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "0",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 240,
+        "y": 1080,
+        "wires": [
+            [
+                "84768f1b33fd90df"
+            ]
+        ]
+    },
+    {
+        "id": "84768f1b33fd90df",
+        "type": "mqtt out",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "Selejt_from_pi",
+        "topic": "ionoPi/Relay2",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "458249f8ed2df35f",
+        "x": 460,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "50fd6c72efbcc76a",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "R_trig (intput have to be true or false)",
+        "func": "var lastValue = context.get('lastValue') || false;\n\nif (msg.payload && lastValue == false) {\n    node.send(msg);\n    node.status({ fill: \"green\", shape: \"dot\", text: \"triggered\" });\n}\n\ncontext.set(\"lastValue\", msg.payload)\n\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 840,
+        "wires": [
+            [
+                "28782a840e8ee7ad"
+            ]
+        ]
+    },
+    {
+        "id": "28782a840e8ee7ad",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "only_one",
+        "func": "if(msg.payload)\n{return msg;}\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 900,
+        "y": 840,
+        "wires": [
+            [
+                "4367cb220ca2d957"
+            ]
+        ]
+    },
+    {
+        "id": "4367cb220ca2d957",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "Időkülönbség kiszámítása",
+        "func": "// A function node beállítása az idő különbség kiszámítására\nlet currentTimestamp = Date.now() / 1000; // Jelenlegi idő másodpercben\n//let previousTimestamp = context.get('previousTimestamp') || 0; // Előző időpont\nlet previousTimestamp = flow.get('previousTimestamp') || 0; // Előző időpont\n\nlet timeDifference = 0;\nif (previousTimestamp !== 0) {\n    timeDifference = currentTimestamp - previousTimestamp-2.4;\n}\n\n// Az aktuális időpont elmentése a következő üzenethez\nflow.set('previousTimestamp', currentTimestamp);\n\n// Az üzenetbe beírjuk az eltelt időt másodpercben\nmsg.payload = timeDifference;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1090,
+        "y": 840,
+        "wires": [
+            [
+                "290d06b34298f1c4"
+            ]
+        ]
+    },
+    {
+        "id": "290d06b34298f1c4",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "insert data to chart",
+        "func": "var name = \"Selejt\"; // Ez jelenik meg a tooltipben\nvar timestamp = new Date(Date.now());\nvar cleantimestamp = timestamp.toISOString().slice(11, -5).replace(\"T\", \" \"); // Óra : perc : másodperc formátum\n\nmsg = {\n    topic: \"Selejt\",\n    label: cleantimestamp,\n    series: name,\n    payload: msg.payload,\n    color_msg: '#FFA500' // Narancssárga szín\n};\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1310,
+        "y": 840,
+        "wires": [
+            [
+                "78de76932c6617be"
+            ]
+        ]
+    },
+    {
+        "id": "ca528371f5b21479",
+        "type": "mqtt in",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "Pi_RFID_input",
+        "topic": "ionoPi/Di1",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "458249f8ed2df35f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 160,
+        "y": 1240,
+        "wires": [
+            [
+                "b94bc6b8bad8546e"
+            ]
+        ]
+    },
+    {
+        "id": "98d9b8cbba23164e",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "RFID_cardOK",
+        "func": "if(msg.payload == 0)\n{\n    flow.set(\"cardOK\",1);\n    flow.set(\"machine_enable\",1)\n    msg.payload = flow.get(\"cardOK\");\n    return msg;\n}\nelse if(msg.payload == 1)\n{\n    flow.set(\"cardOK\",0);\n    flow.set(\"machine_enable\",0)\n    msg.payload = flow.get(\"cardOK\");\n    return msg;\n}\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1000,
+        "y": 1240,
+        "wires": [
+            [
+                "5ef26da0e4e3c4e5"
+            ]
+        ]
+    },
+    {
+        "id": "39d16f9d33a49fdb",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "F_trig (intput have to be true or false)",
+        "func": "var lastValue = context.get('lastValue') || 1;\n\nif(msg.payload == 0 && lastValue){\n    node.status({ fill: \"green\", shape: \"dot\", text: \"triggered\" });\n    node.send(msg);\n} else {\n    node.status({ fill: \"grey\", shape: \"dot\", text: \"triggered\" });\n}\n\ncontext.set(\"lastValue\",msg.payload)\n\nreturn; ",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 690,
+        "y": 1240,
+        "wires": [
+            [
+                "98d9b8cbba23164e",
+                "ced21323586b7310"
+            ]
+        ]
+    },
+    {
+        "id": "b94bc6b8bad8546e",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "Log In/On control",
+        "func": "if(flow.get(\"login_state\")==1)\n{return msg;}\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 1240,
+        "wires": [
+            [
+                "39d16f9d33a49fdb"
+            ]
+        ]
+    },
+    {
+        "id": "1d78927ee0026ccb",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "name": "login state",
+        "func": "msg.payload = flow.get('login_state');\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 4040,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d802d0c2149db0da",
+        "type": "inject",
+        "z": "b306b2a9ca758148",
+        "name": "clk",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 190,
+        "y": 4040,
+        "wires": [
+            [
+                "1d78927ee0026ccb"
+            ]
+        ]
+    },
+    {
+        "id": "0b0544b39a0b7564",
+        "type": "ui_media",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "group": "ab727472c4c99548",
+        "name": "",
+        "width": 5,
+        "height": 6,
+        "order": 2,
+        "category": "ID_new",
+        "file": "blank.png",
+        "layout": "adjust",
+        "showcontrols": true,
+        "loop": true,
+        "onstart": false,
+        "scope": "local",
+        "tooltip": "",
+        "x": 970,
+        "y": 1520,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0f54a7c7b1d7938b",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "ID_jpeg",
+        "func": "if(flow.get(\"somebodyIn\")==0 || flow.get(\"lastWasBlank\")==1)\n{\n        let name = msg.payload.card_owner;\n        msg.payload = {\n                category: \"ID_new\", \n                name: name + \".jpg\"\n        };\n        flow.set(\"lastWasBlank\",0);\n        return msg;\n}\nreturn;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 780,
+        "y": 1520,
+        "wires": [
+            [
+                "0b0544b39a0b7564"
+            ]
+        ]
+    },
+    {
+        "id": "4abd23b140e2b73c",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "if_logout",
+        "func": "if(msg.payload == 0)\n{\n    msg.payload = 1;\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 800,
+        "y": 1280,
+        "wires": [
+            [
+                "98d9b8cbba23164e",
+                "c9218420082ef214"
+            ]
+        ]
+    },
+    {
+        "id": "393809883205ad4b",
+        "type": "mqtt in",
+        "z": "b306b2a9ca758148",
+        "g": "39725f20d08ec9ae",
+        "name": "WiP",
+        "topic": "ionoPi/Di4",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "458249f8ed2df35f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 790,
+        "y": 120,
+        "wires": [
+            [
+                "69b685e1b15afb6c"
+            ]
+        ]
+    },
+    {
+        "id": "69b685e1b15afb6c",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "39725f20d08ec9ae",
+        "name": "R_trig",
+        "func": "var lastValue = context.get('lastValue') || false;\n\nif (msg.payload && lastValue == false) {\n    node.send(msg);\n    node.status({ fill: \"green\", shape: \"dot\", text: \"triggered\" });\n}\n\ncontext.set(\"lastValue\", msg.payload)\n\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 970,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2f278e2392f2e465",
+        "type": "mqtt in",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "WiP",
+        "topic": "ionoPi/Di4",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "458249f8ed2df35f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 130,
+        "y": 580,
+        "wires": [
+            [
+                "c3b867112f77357a"
+            ]
+        ]
+    },
+    {
+        "id": "c3b867112f77357a",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "R_trig",
+        "func": "var lastValue = context.get('lastValue') || false;\n\nif (msg.payload && lastValue == false) {\n    node.send(msg);\n    node.status({ fill: \"green\", shape: \"dot\", text: \"triggered\" });\n}\n\ncontext.set(\"lastValue\", msg.payload)\n\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 250,
+        "y": 580,
+        "wires": [
+            [
+                "871759de23e13b24"
+            ]
+        ]
+    },
+    {
+        "id": "12ad3ba4d1685908",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "nullázó",
+        "func": "msg.payload = 0;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 500,
+        "wires": [
+            [
+                "332e710897eddc95"
+            ]
+        ]
+    },
+    {
+        "id": "22a98c8e76eea648",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "9076bc36f1ec7ee1",
+        "name": "Lock_state_default",
+        "func": "msg.payload = 0;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 350,
+        "y": 160,
+        "wires": [
+            [
+                "3a9a678619e9b7ba"
+            ]
+        ]
+    },
+    {
+        "id": "3a9a678619e9b7ba",
+        "type": "mqtt out",
+        "z": "b306b2a9ca758148",
+        "g": "9076bc36f1ec7ee1",
+        "name": "Lock",
+        "topic": "ionoPi/Relay1",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "458249f8ed2df35f",
+        "x": 610,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "0d87bc191655d84b",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "if_somebodyIn",
+        "func": "if(flow.get(\"somebodyIn\")==0 && flow.get(\"login_state\")==1)\n{return msg;}\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 1520,
+        "wires": [
+            [
+                "0f54a7c7b1d7938b",
+                "d0b76dff6ead9a73"
+            ]
+        ]
+    },
+    {
+        "id": "649f0fc1b68ec55a",
+        "type": "link out",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "link out 1",
+        "mode": "link",
+        "links": [],
+        "x": 1125,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "64f5f62c40020100",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "clear template",
+        "func": "// Ellenőrizni, hogy msg.payload egy üres tömb-e\nif (Array.isArray(msg.payload) && msg.payload.length === 0) {\n    msg = {\n        topic: \"reset\", // Azonosító a reset művelethez\n        label: \"reset\",\n        series: [],\n        payload: [], // Üres adatok\n        color_msg: [] // Üres színek\n    };\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 920,
+        "y": 420,
+        "wires": [
+            [
+                "0119478042d2649b"
+            ]
+        ]
+    },
+    {
+        "id": "215f85ca5864602f",
+        "type": "comment",
+        "z": "b306b2a9ca758148",
+        "name": "Nem használt Debug és Szimulációk",
+        "info": "",
+        "x": 260,
+        "y": 3820,
+        "wires": []
+    },
+    {
+        "id": "2d9f72428cdc37a8",
+        "type": "comment",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "RFID és autentikáció vezérlés",
+        "info": "",
+        "x": 200,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "0b850b86754f1541",
+        "type": "link out",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "link_out_of_clear",
+        "mode": "link",
+        "links": [
+            "a9b99a1a4d44516d",
+            "9109315a87791db0",
+            "563cfe2040a79c26"
+        ],
+        "x": 595,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "a9b99a1a4d44516d",
+        "type": "link in",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "link_from_clear_template",
+        "links": [
+            "0b850b86754f1541",
+            "c80c94ead78ce750"
+        ],
+        "x": 595,
+        "y": 420,
+        "wires": [
+            [
+                "64f5f62c40020100"
+            ]
+        ]
+    },
+    {
+        "id": "9109315a87791db0",
+        "type": "link in",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "link_clear_to_nullazo",
+        "links": [
+            "0b850b86754f1541",
+            "c80c94ead78ce750"
+        ],
+        "x": 585,
+        "y": 500,
+        "wires": [
+            [
+                "12ad3ba4d1685908"
+            ]
+        ]
+    },
+    {
+        "id": "563cfe2040a79c26",
+        "type": "link in",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "link_clear_to_all_wait_counter",
+        "links": [
+            "0b850b86754f1541"
+        ],
+        "x": 545,
+        "y": 660,
+        "wires": [
+            [
+                "53b7528a3fb118b1"
+            ]
+        ]
+    },
+    {
+        "id": "78de76932c6617be",
+        "type": "link out",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "link_to_BarChart",
+        "mode": "link",
+        "links": [
+            "25d3d2f3f05378c8"
+        ],
+        "x": 1455,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "25d3d2f3f05378c8",
+        "type": "link in",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "link_to_data",
+        "links": [
+            "78de76932c6617be"
+        ],
+        "x": 595,
+        "y": 340,
+        "wires": [
+            [
+                "0119478042d2649b"
+            ]
+        ]
+    },
+    {
+        "id": "5ef26da0e4e3c4e5",
+        "type": "link out",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "link_to_jogosultsag_text",
+        "mode": "link",
+        "links": [
+            "c3a070653dd5f39f"
+        ],
+        "x": 1115,
+        "y": 1240,
+        "wires": []
+    },
+    {
+        "id": "c3a070653dd5f39f",
+        "type": "link in",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "link_from_RFID_cardOK",
+        "links": [
+            "5ef26da0e4e3c4e5"
+        ],
+        "x": 605,
+        "y": 1480,
+        "wires": [
+            [
+                "bd862626b4e2b2a1"
+            ]
+        ]
+    },
+    {
+        "id": "c9218420082ef214",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "if_logout_then_lock_down",
+        "func": "if(msg.payload == 1)\n{\n    msg.payload = 0;\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1030,
+        "y": 1280,
+        "wires": [
+            [
+                "50c2bb4be904bc34"
+            ]
+        ]
+    },
+    {
+        "id": "3f4f15b8f1a2d35d",
+        "type": "debug",
+        "z": "b306b2a9ca758148",
+        "g": "39725f20d08ec9ae",
+        "name": "debug 45",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 980,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "50c2bb4be904bc34",
+        "type": "link out",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "link out 3",
+        "mode": "link",
+        "links": [
+            "90050eca90b69de3"
+        ],
+        "x": 1195,
+        "y": 1280,
+        "wires": []
+    },
+    {
+        "id": "90050eca90b69de3",
+        "type": "link in",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "link_in_lock",
+        "links": [
+            "50c2bb4be904bc34"
+        ],
+        "x": 1145,
+        "y": 1080,
+        "wires": [
+            [
+                "cf2bb5a841c158fd"
+            ]
+        ]
+    },
+    {
+        "id": "843c99f623bc8d1d",
+        "type": "inject",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 1360,
+        "wires": [
+            [
+                "060b0a99101bc15b",
+                "1788072bee99b981"
+            ]
+        ]
+    },
+    {
+        "id": "3a3f337df68c30f4",
+        "type": "inject",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.3",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 250,
+        "y": 940,
+        "wires": [
+            [
+                "244c86755e663a8c"
+            ]
+        ]
+    },
+    {
+        "id": "0b6a72a2ee32ba85",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "blank",
+        "func": "if (msg.payload == 0)\n{   \n    msg.payload = {\n        category: \"ID_new\",\n        name: \"blank.png\"\n    };\n    flow.set(\"lastWasBlank\",1);\n    return msg;\n}\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 790,
+        "y": 1360,
+        "wires": [
+            [
+                "0b0544b39a0b7564"
+            ]
+        ]
+    },
+    {
+        "id": "947c8603d1c71468",
+        "type": "ui_text_input",
+        "z": "b306b2a9ca758148",
+        "g": "e120fffe66c64f5f",
+        "name": "",
+        "label": "Cél mennyiség:",
+        "tooltip": "",
+        "group": "1245d920678a7c21",
+        "order": 9,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "mode": "number",
+        "delay": "30",
+        "topic": "set_target",
+        "sendOnBlur": true,
+        "className": "keret",
+        "topicType": "msg",
+        "x": 440,
+        "y": 1620,
+        "wires": [
+            [
+                "1bf2f7b21f7bd062"
+            ]
+        ],
+        "icon": "node-red-dashboard/ui_numeric.png"
+    },
+    {
+        "id": "6a01ffb8a4592983",
+        "type": "ui_template",
+        "z": "b306b2a9ca758148",
+        "g": "e120fffe66c64f5f",
+        "group": "1245d920678a7c21",
+        "name": "Target Quantity format",
+        "order": 22,
+        "width": 0,
+        "height": 0,
+        "format": "<div ng-bind-html=\"msg.payload\"></div>\n<style>\n    .keret {\n        border: 2px solid #0094ce; /* A gombjaid kék színe */\n        border-radius: 6px;\n    }\n\n    .keret md-input-container .md-input {\n    border-bottom-style: none;\n    }\n    \n    .keret md-input-container.md-input-focused .md-input {\n    border-bottom-style: none;\n    }\n    \n    .keret md-input-container .md-errors-spacer {\n    display: none;\n    min-height: 0;\n    }\n    \n    .keret md-input-container .md-input-messages-animation {\n    display: none;\n    }\n    </style>\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 500,
+        "y": 1740,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1bf2f7b21f7bd062",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "e120fffe66c64f5f",
+        "name": "target_set",
+        "func": "let isLocked = Number(flow.get(\"lock_state\")) || 0;\n\nif (isLocked === 1) {\n    node.status({ fill: \"red\", shape: \"ring\", text: \"Módosítás tiltva: A gép aktív!\" });\n    return null;\n}\n\nlet newTarget = parseInt(msg.payload);\n\n// Ha az input nem szám (pl. üres string vagy null), ne csináljon semmit\nif (isNaN(newTarget)) {\n    node.status({ fill: \"yellow\", shape: \"ring\", text: \"Várakozás érvényes számra...\" });\n    return null;\n}\n\nif(newTarget >= 0){\n    flow.set(\"target_quantity\", newTarget);\n    node.status({ fill: \"green\", shape: \"dot\", text: \"Cél rögzítve: \" + newTarget });\n    msg.payload = newTarget;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 640,
+        "y": 1620,
+        "wires": [
+            [
+                "5f3f795c7a338692"
+            ]
+        ]
+    },
+    {
+        "id": "f546817b5cbabddc",
+        "type": "ui_template",
+        "z": "b306b2a9ca758148",
+        "g": "e120fffe66c64f5f",
+        "group": "9cb1920c660ae580",
+        "name": "Elkészült/Selejt",
+        "order": 13,
+        "width": 9,
+        "height": 4,
+        "format": "<script src=\"https://cdn.jsdelivr.net/npm/apexcharts\"></script>\n\n<style>\n    .nr-dashboard-template {\n        overflow: hidden;\n        padding: 0;\n    }\n\n    /* ===== SAJÁT SZÍNEK (mint a gomboknál) ===== */\n    :root {\n        --good-color: #00E396;\n        --scrap-color: #FF0000;\n    }\n\n    #semidonut_container {\n        display: flex;\n        justify-content: center;\n        align-items: center;\n        width: 100%;\n        height: 500px;\n    }\n\n    #semidonut_chart {\n        width: 320px;\n        height: 280px;\n    }\n\n    /* ===== KÖZÉPSŐ SZÖVEG ===== */\n    #center_text {\n        position: absolute;\n        top: 48%;\n        left: 50%;\n        transform: translate(-50%, -50%);\n        text-align: center;\n        pointer-events: none;\n        line-height: 1.5;\n        z-index: 10;\n    }\n\n    #good_val {\n        color: var(--good-color);\n        font-size: 15px;\n        font-weight: 600;\n    }\n\n    #scrap_val {\n        color: var(--scrap-color);\n        font-size: 15px;\n        font-weight: 600;\n    }\n\n    #ratio_val {\n        color: #2dc4cb;\n        font-size: 15px;\n        margin-top: 4px;\n    }\n\n    /* ===== stroke fix ===== */\n    .apexcharts-canvas .apexcharts-pie-series path {\n        stroke: #FFF !important;\n        stroke-width: 2px !important;\n    }\n</style>\n\n<div id=\"semidonut_container\">\n    <div style=\"position: relative;\">\n        <div id=\"center_text\">\n            <div id=\"good_val\">Jó: 0</div>\n            <div id=\"scrap_val\">Selejt: 0</div>\n            <div id=\"ratio_val\">Hibaarány: 0%</div>\n        </div>\n\n        <h3 style=\"text-align: center; margin: 5px 0 8px 0; color: #ddd;\">\n            Elkészült / Selejt\n        </h3>\n\n        <div id=\"semidonut_chart\"></div>\n    </div>\n</div>\n\n<script>\n    (function(scope) {\n        let chart = null;\n\n        const getColors = () => {\n            const style = getComputedStyle(document.documentElement);\n            return [\n                style.getPropertyValue('--good-color').trim(),\n                style.getPropertyValue('--scrap-color').trim()\n            ];\n        };\n\n        const options = {\n            chart: {\n                type: 'donut',\n                height: 280,\n                sparkline: { enabled: true },\n                animations: { enabled: false }\n            },\n            series: [1],\n            labels: [''],\n            colors: ['transparent'],\n            stroke: {\n                show: true,\n                width: 2,\n                colors: ['#FFF']\n            },\n            fill: { opacity: 0 },\n            plotOptions: {\n                pie: {\n                    startAngle: -90,\n                    endAngle: 90,\n                    donut: {\n                        size: '75%',\n                        labels: { show: false }\n                    }\n                }\n            },\n            legend: {\n                show: true,\n                position: 'bottom'\n            }\n        };\n\n        // Init chart\n        setTimeout(() => {\n            const el = document.getElementById(\"semidonut_chart\");\n            if (el && !chart) {\n                chart = new ApexCharts(el, options);\n                chart.render();\n            }\n        }, 50);\n\n        // DOM Elements\n        const goodEl = document.getElementById(\"good_val\");\n        const scrapEl = document.getElementById(\"scrap_val\");\n        const ratioEl = document.getElementById(\"ratio_val\");\n\n        // Watch for incoming Node-RED messages\n        scope.$watch('msg', function(msg) {\n            if (!msg) return;\n\n            // ===== RESET LOGIKA =====\n            if (msg.topic === \"reset\" || (Array.isArray(msg.payload) && msg.payload.length === 0)) {\n                goodEl.innerHTML = `Jó: 0`;\n                scrapEl.innerHTML = `Selejt: 0`;\n                ratioEl.innerHTML = `Hibaarány: 0%`;\n\n                if (chart) {\n                    chart.updateOptions({\n                        labels: [''],\n                        colors: ['transparent'],\n                        fill: { opacity: 0 }\n                    }, false, false);\n                    chart.updateSeries([1], false);\n                }\n                return;\n            }\n\n            // ===== ADATFELDOLGOZÁS ÉS MEGJELENÍTÉS =====\n            if (!msg.payload || typeof msg.payload !== \"object\") return;\n\n            const good = Number(msg.payload.good) || 0;\n            const scrap = Number(msg.payload.scrap) || 0;\n            const total = good + scrap;\n\n            // Szöveges értékek frissítése\n            goodEl.innerHTML = `Jó: ${good}`;\n            scrapEl.innerHTML = `Selejt: ${scrap}`;\n\n            const ratio = total > 0 ? ((scrap / total) * 100).toFixed(1) : 0;\n            ratioEl.innerHTML = `Hibaarány: ${ratio}%`;\n\n            if (!chart) return;\n\n            // Grafikon frissítése\n            if (total === 0) {\n                chart.updateOptions({\n                    labels: [''],\n                    colors: ['transparent'],\n                    fill: { opacity: 0 }\n                }, false, false);\n                chart.updateSeries([1], false);\n            } else {\n                const [goodColor, scrapColor] = getColors();\n\n                chart.updateOptions({\n                    labels: ['Elkészült', 'Selejt'],\n                    colors: [goodColor, scrapColor],\n                    fill: { opacity: 1 }\n                }, false, false);\n\n                chart.updateSeries([good, scrap], true);\n\n                // ===== HARD SVG FIX (Kényszerített színezés Node-RED ellen) =====\n                setTimeout(() => {\n                    const paths = document.querySelectorAll('#semidonut_chart svg path');\n                    if (paths.length >= 2) {\n                        paths[0].style.fill = goodColor;\n                        paths[1].style.fill = scrapColor;\n                    }\n                }, 20);\n            }\n        });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 840,
+        "y": 1680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3f0819d03e8d7923",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "e120fffe66c64f5f",
+        "name": "data_for_pie_chart",
+        "func": "let all = flow.get(\"product_counter\") || 0;\nlet scrap = flow.get(\"scrap_counter\") || 0;\nlet good = flow.get(\"good_counter\") || 0;\n\n// Ha reset jön a topicban\nif (msg.topic === \"reset\") {\n    msg.payload = { good: 0, scrap: 0 };\n    msg.topic = \"reset\";\n    return msg;\n}\n\nif(good + scrap == all){\n    msg.payload = {\n        good: parseInt(good),\n        scrap: parseInt(scrap)\n    };\n}    \nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 1680,
+        "wires": [
+            [
+                "f546817b5cbabddc"
+            ]
+        ]
+    },
+    {
+        "id": "1728b2c0b4236731",
+        "type": "link in",
+        "z": "b306b2a9ca758148",
+        "g": "e120fffe66c64f5f",
+        "name": "link_to_Good/Scrap_chart",
+        "links": [
+            "12be046e7a58dd3b",
+            "ad7ec29018d37c14",
+            "c80c94ead78ce750"
+        ],
+        "x": 475,
+        "y": 1680,
+        "wires": [
+            [
+                "3f0819d03e8d7923"
+            ]
+        ]
+    },
+    {
+        "id": "ad7ec29018d37c14",
+        "type": "link out",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "prod_count",
+        "mode": "link",
+        "links": [
+            "1728b2c0b4236731"
+        ],
+        "x": 895,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "12be046e7a58dd3b",
+        "type": "link out",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "scrap_prod",
+        "mode": "link",
+        "links": [
+            "1728b2c0b4236731"
+        ],
+        "x": 495,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "0119478042d2649b",
+        "type": "ui_template",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "group": "9cb1920c660ae580",
+        "name": "Gyártási idő",
+        "order": 18,
+        "width": 25,
+        "height": 8,
+        "format": "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/apexcharts@latest/dist/apexcharts.css\" />\n<script src=\"https://cdn.jsdelivr.net/npm/apexcharts@latest\"></script>\n\n<style>\n    .nr-dashboard-template {\n        padding: 10;\n        margin: 0;\n        height: 100%;\n        overflow: hidden;\n    }\n\n    #chart {\n        max-width: 100%;\n        width: 100%;\n        height: 380px;\n        margin: 0 auto;\n    }\n</style>\n\n<h2 style=\"color: white; text-align: center;\"> Ütemidő és Minőség </h2>\n<div id=\"chart\"></div>\n\n<script>\n    (function(scope) {\n        // Initialize chart\n        const chartOptions = {\n            chart: {\n                type: 'bar',\n                height: 380\n            },\n            series: [{\n                name: \"Adatok\",\n                data: []\n            }],\n            xaxis: {\n                categories: [],\n                labels: {\n                    style: {\n                        colors: '#fff',\n                        fontSize: '14px',\n                        fontWeight: 600\n                    }\n                }\n            },\n            yaxis: {\n                min: 0,\n                max: 10,\n                labels: {\n                    formatter: function(val) {\n                        return val.toFixed(4);\n                    },\n                    style: {\n                        colors: '#fff',\n                        fontSize: '14px',\n                        fontWeight: 600\n                    }\n                }\n            },\n            annotations: {\n                yaxis: [{\n                    y: 6.2, // A piros vonal pozíciója az y-tengelyen\n                    borderColor: '#FF0000', // Piros vonal színe\n                    strokeDashArray: 0, // Folyamatos vonal (nincs szaggatás)\n                    label: {\n                        style: {\n                            color: '#fff',\n                            background: '#FF0000'\n                        },\n                        text: 'Scrap Product' // A címke a vonal mellett\n                    }\n                }]\n            },\n            dataLabels: {\n                enabled: true,\n                formatter: function(val) {\n                    return val.toFixed(4);\n                },\n                style: {\n                    colors: ['#fff'],\n                    fontSize: '12px'\n                }\n            },\n            plotOptions: {\n                bar: {\n                    distributed: true\n                }\n            },\n            colors: [] // Színek dinamikusan frissítve\n        };\n\n        // Egy 50ms-es késleltetés után rajzolja ki a chartot, így megjelenik gond nélkül\n        setTimeout(() => {\n        const element = document.querySelector(\"#chart\");\n        if (element) {\n        chart = new ApexCharts(element, chartOptions);\n        chart.render();\n        }\n        }, 50);\n\n        // Watch for new messages\n        scope.$watch('msg', function(msg) {\n            if (msg) {\n                if (msg.topic === \"reset\" && Array.isArray(msg.payload) && msg.payload.length === 0) {\n                    chart.updateOptions({\n                        xaxis: { categories: [] },\n                        series: [{ name: \"Adatok\", data: [] }],\n                        colors: []\n                    });\n                } else if (msg.payload !== undefined) {\n                    const timestamp = msg.label || new Date().toLocaleTimeString();\n                    const value = parseFloat(msg.payload);\n                    const color = msg.color_msg || '#0000FF'; // Alapértelmezett kék\n\n                    chart.updateOptions({\n                        xaxis: {\n                            categories: [...chart.w.config.xaxis.categories, timestamp]\n                        },\n                        series: [{\n                            name: \"Adatok\",\n                            data: [...chart.w.config.series[0].data, value]\n                        }],\n                        colors: [...chart.w.config.colors, color]\n                    });\n                }\n            }\n        });\n    })(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1110,
+        "y": 420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c80c94ead78ce750",
+        "type": "link out",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "RESET",
+        "mode": "link",
+        "links": [
+            "1728b2c0b4236731",
+            "7e47c90b8c63c1eb",
+            "9109315a87791db0",
+            "a9b99a1a4d44516d",
+            "f598476f984cc9fe"
+        ],
+        "x": 895,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "5e376a105c818357",
+        "type": "ui_text",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "group": "9cb1920c660ae580",
+        "order": 2,
+        "width": 4,
+        "height": 1,
+        "name": "",
+        "label": "CÉL",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "Times New Roman,Times,serif",
+        "fontSize": 16,
+        "color": "#b0bec5",
+        "x": 1370,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "b0f82e2dbf085bfe",
+        "type": "ui_text",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "group": "9cb1920c660ae580",
+        "order": 4,
+        "width": 4,
+        "height": 1,
+        "name": "",
+        "label": "KÉSZ",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "Times New Roman,Times,serif",
+        "fontSize": 16,
+        "color": "#b0bec5",
+        "x": 1370,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "e0726d6d7b0cad22",
+        "type": "ui_text",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "group": "9cb1920c660ae580",
+        "order": 6,
+        "width": 4,
+        "height": 1,
+        "name": "",
+        "label": "HALADÁS",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "Times New Roman,Times,serif",
+        "fontSize": 16,
+        "color": "#b0bec5",
+        "x": 1390,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "555273a84fd3d029",
+        "type": "ui_text",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "group": "9cb1920c660ae580",
+        "order": 8,
+        "width": 4,
+        "height": 1,
+        "name": "",
+        "label": "VÁRHATÓ IDŐTARTAM",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": true,
+        "font": "Times New Roman,Times,serif",
+        "fontSize": 16,
+        "color": "#b0bec5",
+        "x": 1430,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "332e710897eddc95",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "progress_follow",
+        "func": "if(msg.payload == 0 && flow.get(\"machine_enable\") == 0) {\n    let out1 = { payload: 0 };\n    let out2 = { payload: 0 };\n    let out3 = { payload: 0 + \"%\" };\n    let out4 = { payload: \"--:--:--\" };\n    return[out1, out2, out3, out4];\n}\n\n// Adatok lekérése a memóriából\nlet target = flow.get(\"target_quantity\") || 0;\nlet current = flow.get(\"product_counter\") || 0;\n\nlet times = flow.get(\"production_timestamps\") || [];\n\nif (current === 1) {\n    times = [];\n}\n\ntimes.push(Date.now());\nflow.set(\"production_timestamps\", times);\n\n// 1. kimenet: CÉL (egyszerű szám)\nlet out1 = { payload: target };\n\n// 2. kimenet: KÉSZ (aktuális darabszám)\nlet out2 = { payload: current };\n                                                                                    \n// 3. kimenet: HALADÁS (százalékos formátum)\nlet percent = (target > 0) ? Math.round((current / target) * 100) : 0;\nlet out3 = { payload: percent + \"%\" };\n\n// 4. kimenet: HÁTRALÉVŐ IDŐ (Predikció: óó:pp:mm)\nlet timeStr = \"--:--:--\";\n\n// Csak akkor számolunk, ha már van kész termék és fut a gép\nif (times.length > 1 && target > current) {\n    let timeSoFarMs = times[times.length - 1] - times[0]; // Ennyi ideje megy a gyártás összesen\n\n    let produced = times.length;\n\n    let ratioOfGoalAndProduced = target / produced;\n\n    let timeForAllMs = timeSoFarMs * ratioOfGoalAndProduced;\n\n    let predictedRemainingMs = timeForAllMs - timeSoFarMs;\n\n    flow.set(\"remainingTimeMs\", predictedRemainingMs);\n\n    // Milliszekundum átalakítása olvasható formátumba\n    let totalSeconds = Math.floor(predictedRemainingMs / 1000);\n    let hours = Math.floor(totalSeconds / 3600);\n    let minutes = Math.floor((totalSeconds % 3600) / 60);\n    let seconds = totalSeconds % 60;\n\n    // Szöveges formázás: 00:00:00\n    timeStr = [hours, minutes, seconds]\n        .map(v => v < 10 ? \"0\" + v : v)\n        .join(\":\");\n} else if(target > 0 && current >= target){\n    timeStr = \"00:00:00\";\n    flow.set(\"remainingTimeMs\", 0);\n    flow.set(\"production_timestamps\", []);\n}\n\nlet out4 = { payload: timeStr };\n\nreturn [out1, out2, out3, out4];",
+        "outputs": 4,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1180,
+        "y": 600,
+        "wires": [
+            [
+                "5e376a105c818357"
+            ],
+            [
+                "b0f82e2dbf085bfe"
+            ],
+            [
+                "e0726d6d7b0cad22"
+            ],
+            [
+                "555273a84fd3d029"
+            ]
+        ]
+    },
+    {
+        "id": "5f3f795c7a338692",
+        "type": "link out",
+        "z": "b306b2a9ca758148",
+        "g": "e120fffe66c64f5f",
+        "name": "link_out_target_set",
+        "mode": "link",
+        "links": [
+            "eee86e445c2b7de4"
+        ],
+        "x": 785,
+        "y": 1620,
+        "wires": []
+    },
+    {
+        "id": "eee86e445c2b7de4",
+        "type": "link in",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "link_in_progress_follow",
+        "links": [
+            "5f3f795c7a338692"
+        ],
+        "x": 1035,
+        "y": 560,
+        "wires": [
+            [
+                "332e710897eddc95"
+            ]
+        ]
+    },
+    {
+        "id": "7e47c90b8c63c1eb",
+        "type": "link in",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "link_in_reset_Darab/Időpont_chart",
+        "links": [
+            "c80c94ead78ce750"
+        ],
+        "x": 545,
+        "y": 700,
+        "wires": [
+            [
+                "c57997085f055fca"
+            ]
+        ]
+    },
+    {
+        "id": "c57997085f055fca",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "Reset Darab/Időpont",
+        "func": "msg.topic = \"Darabszám\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 680,
+        "y": 700,
+        "wires": [
+            [
+                "964ed374fef0a265"
+            ]
+        ]
+    },
+    {
+        "id": "bda310ae660ce8ee",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "e120fffe66c64f5f",
+        "name": "text_input_clear",
+        "func": "msg.payload = \"\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 260,
+        "y": 1620,
+        "wires": [
+            [
+                "947c8603d1c71468"
+            ]
+        ]
+    },
+    {
+        "id": "f598476f984cc9fe",
+        "type": "link in",
+        "z": "b306b2a9ca758148",
+        "g": "e120fffe66c64f5f",
+        "name": "text_input_clear",
+        "links": [
+            "c80c94ead78ce750"
+        ],
+        "x": 145,
+        "y": 1620,
+        "wires": [
+            [
+                "bda310ae660ce8ee"
+            ]
+        ]
+    },
+    {
+        "id": "fa02b3faab99f8d4",
+        "type": "mqtt in",
+        "z": "b306b2a9ca758148",
+        "g": "39725f20d08ec9ae",
+        "name": "RND",
+        "topic": "ionoPi/Relay3",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "458249f8ed2df35f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 790,
+        "y": 60,
+        "wires": [
+            [
+                "3f4f15b8f1a2d35d"
+            ]
+        ]
+    },
+    {
+        "id": "aee1ab6bce203068",
+        "type": "inject",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 990,
+        "y": 720,
+        "wires": [
+            [
+                "c52b7923a050fa2c"
+            ]
+        ]
+    },
+    {
+        "id": "c52b7923a050fa2c",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "Timer",
+        "func": "let remainingMs = flow.get(\"remainingTimeMs\") || 0;\nlet isRunning = flow.get(\"lock_state\") || 0; // Csak ha megy a gép\n\nif (isRunning === 1 && remainingMs > 0) {\n    // Csökkentjük 1 másodperccel (1000 ms)\n    remainingMs -= 1000;\n    if (remainingMs < 0) remainingMs = 0;\n    \n    // Elmentjük a csökkentett értéket\n    flow.set(\"remainingTimeMs\", remainingMs);\n\n    // Formázás óó:pp:mm-re\n    let totalSeconds = Math.floor(remainingMs / 1000);\n    let hours = Math.floor(totalSeconds / 3600);\n    let minutes = Math.floor((totalSeconds % 3600) / 60);\n    let seconds = totalSeconds % 60;\n\n    let timeStr = [hours, minutes, seconds]\n        .map(v => v < 10 ? \"0\" + v : v)\n        .join(\":\");\n\n    msg.payload = timeStr;\n    return msg;\n}\nmsg.payload = \"--:--:--\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1210,
+        "y": 700,
+        "wires": [
+            [
+                "555273a84fd3d029"
+            ]
+        ]
+    },
+    {
+        "id": "242d501a3f65b68e",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "stop",
+        "func": "if(msg.payload == 0){\n    return msg;\n}\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1070,
+        "y": 500,
+        "wires": [
+            [
+                "01e939815acfdf65",
+                "3d0a9c38efb19311"
+            ]
+        ]
+    },
+    {
+        "id": "01e939815acfdf65",
+        "type": "mqtt out",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "Lock",
+        "topic": "ionoPi/Relay1",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "458249f8ed2df35f",
+        "x": 1250,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "0d8b93e8637d026d",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "label_reset_after_done",
+        "func": "msg.payload = 0;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 240,
+        "y": 980,
+        "wires": [
+            [
+                "244c86755e663a8c"
+            ]
+        ]
+    },
+    {
+        "id": "18257f9390296ace",
+        "type": "link in",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "link _n_factory_start_button",
+        "links": [
+            "3d0a9c38efb19311"
+        ],
+        "x": 105,
+        "y": 960,
+        "wires": [
+            [
+                "0d8b93e8637d026d"
+            ]
+        ]
+    },
+    {
+        "id": "3d0a9c38efb19311",
+        "type": "link out",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "link_out_stop_after_target_reached",
+        "mode": "link",
+        "links": [
+            "18257f9390296ace"
+        ],
+        "x": 1215,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "1ecd5a8b477cf06b",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "plc_reset",
+        "func": "msg.payload = 0;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1060,
+        "y": 940,
+        "wires": [
+            [
+                "3e27db80bcf24a29",
+                "8698c84e1242ddf3",
+                "952dc9935592d6ce"
+            ]
+        ]
+    },
+    {
+        "id": "59b29317076fc52e",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "name": "target_reached",
+        "func": "if(msg.payload == 0){\n    msg.payload =`Cél:${flow.get(\"target_quantity\")} elérve! A gyártás leáll!`\n    flow.set(\"target_reached\", 1);\n    return msg;\n}\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 940,
+        "y": 620,
+        "wires": [
+            [
+                "3318d13b3b02bd98"
+            ]
+        ]
+    },
+    {
+        "id": "ced21323586b7310",
+        "type": "debug",
+        "z": "b306b2a9ca758148",
+        "g": "48d2f444e75316da",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 860,
+        "y": 1200,
+        "wires": []
+    },
+    {
+        "id": "3318d13b3b02bd98",
+        "type": "ui_toast",
+        "z": "b306b2a9ca758148",
+        "g": "7708af146d269f69",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "Kész!",
+        "name": "Done",
+        "x": 1150,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c2cd90124a0ca672",
+        "type": "inject",
+        "z": "b306b2a9ca758148",
+        "g": "9076bc36f1ec7ee1",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 160,
+        "y": 140,
+        "wires": [
+            [
+                "6dc2924fd0411c48",
+                "22a98c8e76eea648"
+            ]
+        ]
+    },
+    {
+        "id": "cd4c9e671fbb39f5",
+        "type": "mqtt out",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "Selejt_from_pi (Vészleállítás)",
+        "topic": "ionoPi/Relay2",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "458249f8ed2df35f",
+        "x": 1500,
+        "y": 1080,
+        "wires": []
+    },
+    {
+        "id": "41440cd1e976df9b",
+        "type": "function",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "function 1",
+        "func": "if(flow.get(\"target_reached\") != 1) {\n    return msg;\n}\nreturn;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1300,
+        "y": 1060,
+        "wires": [
+            [
+                "cd4c9e671fbb39f5"
+            ]
+        ]
+    },
+    {
+        "id": "8698c84e1242ddf3",
+        "type": "mqtt out",
+        "z": "b306b2a9ca758148",
+        "g": "57212797686269db",
+        "name": "Selejt_from_pi",
+        "topic": "ionoPi/Relay2",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "458249f8ed2df35f",
+        "x": 1280,
+        "y": 920,
+        "wires": []
+    }
+]

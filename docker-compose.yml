@@ -1,0 +1,31 @@
+services:
+
+  mqtt:
+    image: eclipse-mosquitto:2
+    container_name: mqtt
+    ports:
+      - "1883:1883"
+    volumes:
+      - ./mosquitto/config:/mosquitto/config
+      - ./mosquitto/data:/mosquitto/data
+      - ./mosquitto/log:/mosquitto/log
+    restart: unless-stopped
+
+  nodered:
+    build: ./Node-RED
+    ports:
+      - "1880:1880"
+    volumes:
+      - ./Node-RED:/data
+    depends_on:
+      - mqtt
+    restart: unless-stopped
+
+  blazorprojekt:
+    build:
+      context: ./BlazorProjekt/BlazorProjekt
+    ports:
+      - "5041:8080"
+    depends_on:
+      - mqtt
+    restart: unless-stopped

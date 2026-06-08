@@ -1,0 +1,11 @@
+FROM nodered/node-red:latest
+
+USER root
+
+RUN npm install --unsafe-perm \
+    node-red-dashboard \
+    node-red-contrib-toggle \
+    node-red-contrib-ui-media \
+    node-red-contrib-aedes
+
+USER node-red
